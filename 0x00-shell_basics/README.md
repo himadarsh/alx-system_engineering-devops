@@ -20,4 +20,6 @@
 
 10-back ==> cd -
 
+11-lists ==> ls -a . .. -l /boot 
 
+ 
