@@ -28,4 +28,6 @@
 
 14-copy_html ==> cp -u *.html ..
 
- 
+100-lets_move ==> mv [:upper:] /tmp/u
+
+
