@@ -24,4 +24,8 @@
 
 12-file_type ==> file /tmp/iamafile
 
-13-symbolic_link ==> ln -s /bin/ls __ls__ 
+13-symbolic_link ==> ln -s /bin/ls __ls_
+
+14-copy_html ==> cp -u *.html ..
+
+ 
