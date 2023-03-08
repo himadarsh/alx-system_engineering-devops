@@ -7,3 +7,6 @@
 3-listfiles ==> ls -l
 
 4-listmorefiles ==> ls -la
+
+5-listfilesdigitonly ==> ls -la -n
+
