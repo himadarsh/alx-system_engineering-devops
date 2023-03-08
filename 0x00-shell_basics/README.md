@@ -22,4 +22,4 @@
 
 11-lists ==> ls -a . .. -l /boot 
 
- 
+12-file_type ==> file /tmp/iamafile 
