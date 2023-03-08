@@ -10,3 +10,6 @@
 
 5-listfilesdigitonly ==> ls -la -n
 
+6-firstdirectory ==> mkdir /tmp/my_first_directory
+
+
