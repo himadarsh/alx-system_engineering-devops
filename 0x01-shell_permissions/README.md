@@ -6,4 +6,6 @@
 
 3-new_owner ==> chown 
 
+5-execute ==> chmod
+
 
