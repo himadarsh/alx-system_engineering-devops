@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp -vh vincent:staff _hello
+sudo chgrp -h vincent:staff _hello
