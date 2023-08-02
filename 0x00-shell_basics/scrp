@@ -1,0 +1,6 @@
+#!/bin/bash
+echo ">>Enter Script Name : "
+read name
+echo "#!/bin/bash" > $name
+chmod u+x $name
+vi $name
